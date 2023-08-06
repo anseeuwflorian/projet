@@ -8,7 +8,7 @@ body {
     border: none;
 }
 
-label, input{
+label, input, label:after{
     color: white;
     background-color: #1B1E23 !important;
     border:none !important;
