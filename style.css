@@ -1,0 +1,52 @@
+body {
+    background: #12161B !important;
+}
+
+.button {
+    border-radius: 6px;
+    height: 50px;
+    border: none;
+}
+
+label, input{
+    color: white;
+    background-color: #1B1E23 !important;
+    border:none !important;
+}
+
+#btn1, #btn2, #btn3{
+    color: white;
+    width: 360px !important;
+}
+
+
+#btn1{
+    background-color: #3C6ED2;
+}
+
+#btn2{
+    background-color: #5A3CD2;
+}
+
+#btn3{
+    background-color: #262B32;
+}
+
+.mainContainer{
+    width: 360px;
+}
+
+a {
+    color: white !important;
+    text-decoration: none !important;
+    padding: 15px;
+}
+
+#separator:after{
+    content: " \2503";
+    color:white;
+}
+
+h2{
+    color: white !important;
+}
