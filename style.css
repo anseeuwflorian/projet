@@ -8,10 +8,15 @@ body {
     border: none;
 }
 
-label, input, label:after{
-    color: white;
+input{
+    color: white !important;
     background-color: #1B1E23 !important;
     border:none !important;
+}
+
+label:after{
+    background-color: #1B1E23 !important;
+    opacity: 0 !important;
 }
 
 #btn1, #btn2, #btn3{
@@ -47,6 +52,6 @@ a {
     color:white;
 }
 
-h2{
+h2, label{
     color: white !important;
 }
